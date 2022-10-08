@@ -1,0 +1,42 @@
+.center{
+    margin: auto;
+    width: 80%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h1{
+    width:80%;
+    margin:8px 0;
+    display:inline-block;
+    padding-left: 150px;
+}
+input[type=text],textarea,select{
+    width:80%;
+    margin:8px 0;
+    padding:12px 20px;
+    display:inline-block;
+    border:2px solid red;
+    box-sizing:border-box;
+    border-radius:4px;
+}
+span{
+    color: red;
+}
+
+.submit{
+    background-color: blue;
+    color:white;
+    height: 30px;
+    width: 70px;
+    border-radius:4px;
+    
+}
+.reset{
+    background-color: red;
+    height: 30px;
+    width: 70px;
+    border-radius:4px;
+    color:white;
+}
+
+
